@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
 import json
+import logging
 from pathlib import Path
 from datetime import date
 from typing import Dict, List, Optional, Tuple
 
 from config import DATA_PATH, USERS
+
+log = logging.getLogger("storage")
 
 class Storage:
     """
@@ -57,6 +60,7 @@ class Storage:
         data["users"][user_key]["telegram_id"] = tg_id
         data["users"][user_key]["name"] = USERS[user_key]
         self._write(data)
+        log.info("Registered user %s as %s (tg_id=%s)", tg_id, user_key, tg_id)
         return True, f"Успех! Вы зарегистрированы как «{USERS[user_key]}»."
 
     def get_registered_users(self) -> Dict[str, Dict]:
@@ -82,6 +86,7 @@ class Storage:
             "weight": float(weight),
         })
         self._write(data)
+        log.info("Added weight: %s %s => %.3f", user_key, on_date, weight)
         return True, "Записал! ✅"
 
     def get_all_weights(self) -> List[dict]:
@@ -109,8 +114,11 @@ class Storage:
     def update_weight_by_index(self, global_index: int, new_weight: float) -> None:
         data = self._read()
         if 0 <= global_index < len(data["weights"]):
+            old = data["weights"][global_index]
             data["weights"][global_index]["weight"] = float(new_weight)
             self._write(data)
+            log.info("Updated weight idx=%d (%s %s): %.3f -> %.3f",
+                     global_index, old["user_key"], old["date"], old["weight"], new_weight)
 
     def get_day_entry(self, user_key: str, day_iso: str) -> Optional[Tuple[int, dict]]:
         """Найти запись конкретного дня и вернуть (глобальный_индекс, запись) или None."""

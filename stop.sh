@@ -1,22 +1,26 @@
 #!/usr/bin/env bash
-set -e
+set -euo pipefail
 
-echo "[STOP] Остановка бота..."
-
+echo "[STOP] Остановка WeightBot..."
 cd "$(dirname "$0")"
 
-if [ ! -f "bot.pid" ]; then
-    echo "[STOP] Файл bot.pid не найден — бот, возможно, не запущен."
-    exit 0
+if command -v systemctl >/dev/null 2>&1; then
+  UNIT_NAME="weightbot@$(whoami).service"
+  systemctl --user stop "$UNIT_NAME" || true
+  systemctl --user disable "$UNIT_NAME" || true
+  systemctl --user daemon-reload
+  echo "[STOP] Остановлен systemd unit $UNIT_NAME"
 fi
 
-PID=$(cat bot.pid)
-
-if kill -0 "$PID" >/dev/null 2>&1; then
-    kill "$PID"
-    echo "[STOP] Процесс $PID остановлен."
-else
-    echo "[STOP] Процесс $PID не найден."
+if [ -f "supervisor.pid" ]; then
+  PID="$(cat supervisor.pid || true)"
+  if [ -n "${PID}" ] && kill -0 "$PID" >/dev/null 2>&1; then
+    kill "$PID" || true
+    echo "[STOP] Supervisor процесс $PID остановлен."
+  fi
+  rm -f supervisor.pid
 fi
 
-rm -f bot.pid
+# про запас — гасим старые bot.py, если вдруг остались
+pkill -f "python .*bot.py" >/dev/null 2>&1 || true
+echo "[STOP] Done."

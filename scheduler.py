@@ -4,6 +4,8 @@ from apscheduler.triggers.cron import CronTrigger
 from aiogram import Bot
 from config import TIMEZONE
 from storage import Storage
+import logging
+log = logging.getLogger("scheduler")
 
 REMINDER_TEXT = (
     "Доброе утро! 🌅\n"
@@ -17,6 +19,10 @@ def setup_scheduler(bot: Bot, storage: Storage) -> AsyncIOScheduler:
     """
     scheduler = AsyncIOScheduler(timezone=TIMEZONE)
 
+    import logging
+    log = logging.getLogger("scheduler")
+
+    # ...
     async def morning_broadcast():
         users = storage.get_registered_users()
         for _, info in users.items():
@@ -24,9 +30,9 @@ def setup_scheduler(bot: Bot, storage: Storage) -> AsyncIOScheduler:
             if tg_id:
                 try:
                     await bot.send_message(chat_id=tg_id, text=REMINDER_TEXT)
-                except Exception:
-                    # Игнорируем временные фейлы отправки
-                    pass
+                    log.info("Reminder sent to %s", tg_id)
+                except Exception as e:
+                    log.exception("Reminder failed to %s: %s", tg_id, e)
 
     scheduler.add_job(
         morning_broadcast,

@@ -1,0 +1,20 @@
+[Unit]
+Description=WeightBot Supervisor (aiogram)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/WeightBot
+Environment="PYTHONUNBUFFERED=1"
+ExecStart=%h/WeightBot/.venv/bin/python supervisor.py
+Restart=always
+RestartSec=5
+User=%i
+
+# Журналы systemd + наш rotating log
+StandardOutput=append:%h/WeightBot/sysd.out.log
+StandardError=append:%h/WeightBot/sysd.err.log
+
+[Install]
+WantedBy=default.target

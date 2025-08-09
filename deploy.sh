@@ -33,12 +33,24 @@ if [ ! -f ".env" ]; then
     echo "[DEPLOY] ⚠️ Не забудьте прописать реальный BOT_TOKEN в .env"
 fi
 
-# 7. Запуск бота в фоне
-echo "[DEPLOY] Запускаю бота..."
-nohup .venv/bin/python bot.py > bot.log 2>&1 &
+# --- SYSTEMD (опционально, но рекомендуется) ---
+if command -v systemctl >/dev/null 2>&1; then
+  echo "[DEPLOY] Настраиваю systemd unit..."
+  UNIT_NAME="weightbot@$(whoami).service"
+  # копируем юнит в ~/.config/systemd/user/
+  mkdir -p ~/.config/systemd/user
+  cp weightbot.service ~/.config/systemd/user/weightbot@.service
 
-# 8. Сохраняем PID
-echo $! > bot.pid
+  systemctl --user daemon-reload
+  systemctl --user enable "$UNIT_NAME"
+  systemctl --user restart "$UNIT_NAME"
 
-echo "[DEPLOY] ✅ Бот запущен. PID=$(cat bot.pid)"
-echo "[DEPLOY] Лог: tail -f bot.log"
+  echo "[DEPLOY] ✅ systemd unit запущен: $UNIT_NAME"
+  echo "[DEPLOY] Подсказка: journalctl --user -u $UNIT_NAME -f"
+else
+  echo "[DEPLOY] systemd не найден — запускаю supervisor в фоне через nohup"
+  nohup .venv/bin/python supervisor.py >> supervisor.log 2>&1 &
+  echo $! > supervisor.pid
+  echo "[DEPLOY] ✅ Supervisor запущен в фоне (PID=$(cat supervisor.pid))"
+fi
+

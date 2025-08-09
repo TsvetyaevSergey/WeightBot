@@ -16,7 +16,11 @@ from keyboards import registration_kb, main_menu_kb, edit_choose_kb
 from storage import Storage
 from charts import build_weight_chart
 from scheduler import setup_scheduler
+from logging_conf import setup_logging
+setup_logging()
 
+import logging
+log = logging.getLogger("bot")
 
 # --- FSM для ввода веса ---
 class WeightForm(StatesGroup):
@@ -27,11 +31,15 @@ class WeightForm(StatesGroup):
 storage = Storage()
 
 async def on_startup(bot: Bot):
+    log.info("Scheduler starting...")
     setup_scheduler(bot, storage)
+    log.info("Scheduler started")
+
 
 # --- Хэндлеры ---
 async def start_cmd(message: Message, state: FSMContext):
     await state.clear()
+    log.info("User %s hit /start", message.from_user.id)
     if storage.is_registered(message.from_user.id):
         user_key = storage.get_user_key_by_tg(message.from_user.id)
         name = USERS.get(user_key, "Участник")
@@ -82,8 +90,11 @@ async def weight_input(message: Message, state: FSMContext):
 
     ok, msg = storage.add_weight(user_key, value, on_date=today_msk)
     if not ok:
+        log.warning("Daily limit: user=%s %s", message.from_user.id, today_msk)
         await message.answer(f"❗ {msg}\nЕсли опечатались — используйте «✏️ Исправить последние записи».")
         return
+    else:
+        log.info("Weight saved: user=%s date=%s value=%.3f", message.from_user.id, today_msk, value)
 
     await state.clear()
     await message.answer(msg, reply_markup=main_menu_kb())
@@ -92,6 +103,7 @@ async def weight_input(message: Message, state: FSMContext):
 async def show_results(message: Message):
     if not storage.is_registered(message.from_user.id):
         await message.answer("Сначала зарегистрируйтесь: /start")
+        log.info("Chart requested by user %s", message.from_user.id)
         return
 
     img_path = build_weight_chart(storage.get_all_weights(), storage.get_start_date())
