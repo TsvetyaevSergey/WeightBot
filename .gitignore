@@ -1,0 +1,24 @@
+# venv / IDE
+.venv/
+venv/
+.idea/
+.vscode/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# local config
+.env
+.env
+
+# runtime data
+data/*.json
+charts/
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
