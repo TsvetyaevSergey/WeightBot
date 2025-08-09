@@ -1,0 +1,963 @@
+[
+  {
+    "day": 1,
+    "items": [
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      },
+      {
+        "name": "Грецкие орехи",
+        "key": "грецкие_орехи",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 163.5,
+        "protein_g": 3.8,
+        "fat_g": 16.3,
+        "carbs_g": 3.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 270.3,
+      "protein_g": 5.1,
+      "fat_g": 16.7,
+      "carbs_g": 31.0
+    }
+  },
+  {
+    "day": 2,
+    "items": [
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 180,
+        "cooked_g": 180,
+        "kcal": 93.6,
+        "protein_g": 0.5,
+        "fat_g": 0.4,
+        "carbs_g": 25.2
+      },
+      {
+        "name": "Миндаль",
+        "key": "миндаль",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 144.8,
+        "protein_g": 5.3,
+        "fat_g": 12.5,
+        "carbs_g": 5.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 238.4,
+      "protein_g": 5.8,
+      "fat_g": 12.9,
+      "carbs_g": 30.6
+    }
+  },
+  {
+    "day": 3,
+    "items": [
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 94.0,
+        "protein_g": 1.8,
+        "fat_g": 0.2,
+        "carbs_g": 24.0
+      },
+      {
+        "name": "Арахис",
+        "key": "арахис",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 141.8,
+        "protein_g": 6.5,
+        "fat_g": 12.3,
+        "carbs_g": 4.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 235.8,
+      "protein_g": 8.3,
+      "fat_g": 12.5,
+      "carbs_g": 28.0
+    }
+  },
+  {
+    "day": 4,
+    "items": [
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 114.0,
+        "protein_g": 0.8,
+        "fat_g": 0.2,
+        "carbs_g": 30.0
+      },
+      {
+        "name": "Фундук",
+        "key": "фундук",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 157.0,
+        "protein_g": 3.8,
+        "fat_g": 15.2,
+        "carbs_g": 4.2
+      }
+    ],
+    "meal_totals": {
+      "kcal": 271.0,
+      "protein_g": 4.6,
+      "fat_g": 15.4,
+      "carbs_g": 34.2
+    }
+  },
+  {
+    "day": 5,
+    "items": [
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      },
+      {
+        "name": "Грецкие орехи",
+        "key": "грецкие_орехи",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 163.5,
+        "protein_g": 3.8,
+        "fat_g": 16.3,
+        "carbs_g": 3.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 270.3,
+      "protein_g": 5.1,
+      "fat_g": 16.7,
+      "carbs_g": 31.0
+    }
+  },
+  {
+    "day": 6,
+    "items": [
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 180,
+        "cooked_g": 180,
+        "kcal": 93.6,
+        "protein_g": 0.5,
+        "fat_g": 0.4,
+        "carbs_g": 25.2
+      },
+      {
+        "name": "Миндаль",
+        "key": "миндаль",
+        "raw_g": 15,
+        "cooked_g": 15,
+        "kcal": 86.8,
+        "protein_g": 3.2,
+        "fat_g": 7.5,
+        "carbs_g": 3.2
+      }
+    ],
+    "meal_totals": {
+      "kcal": 180.4,
+      "protein_g": 3.7,
+      "fat_g": 7.9,
+      "carbs_g": 28.4
+    }
+  },
+  {
+    "day": 7,
+    "items": [
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 94.0,
+        "protein_g": 1.8,
+        "fat_g": 0.2,
+        "carbs_g": 24.0
+      },
+      {
+        "name": "Арахис",
+        "key": "арахис",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 141.8,
+        "protein_g": 6.5,
+        "fat_g": 12.3,
+        "carbs_g": 4.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 235.8,
+      "protein_g": 8.3,
+      "fat_g": 12.5,
+      "carbs_g": 28.0
+    }
+  },
+  {
+    "day": 8,
+    "items": [
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 114.0,
+        "protein_g": 0.8,
+        "fat_g": 0.2,
+        "carbs_g": 30.0
+      },
+      {
+        "name": "Фундук",
+        "key": "фундук",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 157.0,
+        "protein_g": 3.8,
+        "fat_g": 15.2,
+        "carbs_g": 4.2
+      }
+    ],
+    "meal_totals": {
+      "kcal": 271.0,
+      "protein_g": 4.6,
+      "fat_g": 15.4,
+      "carbs_g": 34.2
+    }
+  },
+  {
+    "day": 9,
+    "items": [
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      },
+      {
+        "name": "Грецкие орехи",
+        "key": "грецкие_орехи",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 163.5,
+        "protein_g": 3.8,
+        "fat_g": 16.3,
+        "carbs_g": 3.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 270.3,
+      "protein_g": 5.1,
+      "fat_g": 16.7,
+      "carbs_g": 31.0
+    }
+  },
+  {
+    "day": 10,
+    "items": [
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 180,
+        "cooked_g": 180,
+        "kcal": 93.6,
+        "protein_g": 0.5,
+        "fat_g": 0.4,
+        "carbs_g": 25.2
+      },
+      {
+        "name": "Миндаль",
+        "key": "миндаль",
+        "raw_g": 15,
+        "cooked_g": 15,
+        "kcal": 86.8,
+        "protein_g": 3.2,
+        "fat_g": 7.5,
+        "carbs_g": 3.2
+      }
+    ],
+    "meal_totals": {
+      "kcal": 180.4,
+      "protein_g": 3.7,
+      "fat_g": 7.9,
+      "carbs_g": 28.4
+    }
+  },
+  {
+    "day": 11,
+    "items": [
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 94.0,
+        "protein_g": 1.8,
+        "fat_g": 0.2,
+        "carbs_g": 24.0
+      },
+      {
+        "name": "Арахис",
+        "key": "арахис",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 141.8,
+        "protein_g": 6.5,
+        "fat_g": 12.3,
+        "carbs_g": 4.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 235.8,
+      "protein_g": 8.3,
+      "fat_g": 12.5,
+      "carbs_g": 28.0
+    }
+  },
+  {
+    "day": 12,
+    "items": [
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 114.0,
+        "protein_g": 0.8,
+        "fat_g": 0.2,
+        "carbs_g": 30.0
+      },
+      {
+        "name": "Фундук",
+        "key": "фундук",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 157.0,
+        "protein_g": 3.8,
+        "fat_g": 15.2,
+        "carbs_g": 4.2
+      }
+    ],
+    "meal_totals": {
+      "kcal": 271.0,
+      "protein_g": 4.6,
+      "fat_g": 15.4,
+      "carbs_g": 34.2
+    }
+  },
+  {
+    "day": 13,
+    "items": [
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      },
+      {
+        "name": "Грецкие орехи",
+        "key": "грецкие_орехи",
+        "raw_g": 15,
+        "cooked_g": 15,
+        "kcal": 98.1,
+        "protein_g": 2.3,
+        "fat_g": 9.8,
+        "carbs_g": 2.1
+      }
+    ],
+    "meal_totals": {
+      "kcal": 204.9,
+      "protein_g": 3.6,
+      "fat_g": 10.2,
+      "carbs_g": 29.7
+    }
+  },
+  {
+    "day": 14,
+    "items": [
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 180,
+        "cooked_g": 180,
+        "kcal": 93.6,
+        "protein_g": 0.5,
+        "fat_g": 0.4,
+        "carbs_g": 25.2
+      },
+      {
+        "name": "Миндаль",
+        "key": "миндаль",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 144.8,
+        "protein_g": 5.3,
+        "fat_g": 12.5,
+        "carbs_g": 5.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 238.4,
+      "protein_g": 5.8,
+      "fat_g": 12.9,
+      "carbs_g": 30.6
+    }
+  },
+  {
+    "day": 15,
+    "items": [
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 94.0,
+        "protein_g": 1.8,
+        "fat_g": 0.2,
+        "carbs_g": 24.0
+      },
+      {
+        "name": "Арахис",
+        "key": "арахис",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 141.8,
+        "protein_g": 6.5,
+        "fat_g": 12.3,
+        "carbs_g": 4.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 235.8,
+      "protein_g": 8.3,
+      "fat_g": 12.5,
+      "carbs_g": 28.0
+    }
+  },
+  {
+    "day": 16,
+    "items": [
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 114.0,
+        "protein_g": 0.8,
+        "fat_g": 0.2,
+        "carbs_g": 30.0
+      },
+      {
+        "name": "Фундук",
+        "key": "фундук",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 157.0,
+        "protein_g": 3.8,
+        "fat_g": 15.2,
+        "carbs_g": 4.2
+      }
+    ],
+    "meal_totals": {
+      "kcal": 271.0,
+      "protein_g": 4.6,
+      "fat_g": 15.4,
+      "carbs_g": 34.2
+    }
+  },
+  {
+    "day": 17,
+    "items": [
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      },
+      {
+        "name": "Грецкие орехи",
+        "key": "грецкие_орехи",
+        "raw_g": 21,
+        "cooked_g": 21,
+        "kcal": 137.3,
+        "protein_g": 3.2,
+        "fat_g": 13.7,
+        "carbs_g": 2.9
+      }
+    ],
+    "meal_totals": {
+      "kcal": 244.1,
+      "protein_g": 4.5,
+      "fat_g": 14.1,
+      "carbs_g": 30.5
+    }
+  },
+  {
+    "day": 18,
+    "items": [
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 180,
+        "cooked_g": 180,
+        "kcal": 93.6,
+        "protein_g": 0.5,
+        "fat_g": 0.4,
+        "carbs_g": 25.2
+      },
+      {
+        "name": "Миндаль",
+        "key": "миндаль",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 144.8,
+        "protein_g": 5.3,
+        "fat_g": 12.5,
+        "carbs_g": 5.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 238.4,
+      "protein_g": 5.8,
+      "fat_g": 12.9,
+      "carbs_g": 30.6
+    }
+  },
+  {
+    "day": 19,
+    "items": [
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 94.0,
+        "protein_g": 1.8,
+        "fat_g": 0.2,
+        "carbs_g": 24.0
+      },
+      {
+        "name": "Арахис",
+        "key": "арахис",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 141.8,
+        "protein_g": 6.5,
+        "fat_g": 12.3,
+        "carbs_g": 4.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 235.8,
+      "protein_g": 8.3,
+      "fat_g": 12.5,
+      "carbs_g": 28.0
+    }
+  },
+  {
+    "day": 20,
+    "items": [
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 114.0,
+        "protein_g": 0.8,
+        "fat_g": 0.2,
+        "carbs_g": 30.0
+      },
+      {
+        "name": "Фундук",
+        "key": "фундук",
+        "raw_g": 15,
+        "cooked_g": 15,
+        "kcal": 94.2,
+        "protein_g": 2.2,
+        "fat_g": 9.2,
+        "carbs_g": 2.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 208.2,
+      "protein_g": 3.0,
+      "fat_g": 9.4,
+      "carbs_g": 32.5
+    }
+  },
+  {
+    "day": 21,
+    "items": [
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      },
+      {
+        "name": "Грецкие орехи",
+        "key": "грецкие_орехи",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 163.5,
+        "protein_g": 3.8,
+        "fat_g": 16.3,
+        "carbs_g": 3.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 270.3,
+      "protein_g": 5.1,
+      "fat_g": 16.7,
+      "carbs_g": 31.0
+    }
+  },
+  {
+    "day": 22,
+    "items": [
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 180,
+        "cooked_g": 180,
+        "kcal": 93.6,
+        "protein_g": 0.5,
+        "fat_g": 0.4,
+        "carbs_g": 25.2
+      },
+      {
+        "name": "Миндаль",
+        "key": "миндаль",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 144.8,
+        "protein_g": 5.3,
+        "fat_g": 12.5,
+        "carbs_g": 5.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 238.4,
+      "protein_g": 5.8,
+      "fat_g": 12.9,
+      "carbs_g": 30.6
+    }
+  },
+  {
+    "day": 23,
+    "items": [
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 94.0,
+        "protein_g": 1.8,
+        "fat_g": 0.2,
+        "carbs_g": 24.0
+      },
+      {
+        "name": "Арахис",
+        "key": "арахис",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 141.8,
+        "protein_g": 6.5,
+        "fat_g": 12.3,
+        "carbs_g": 4.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 235.8,
+      "protein_g": 8.3,
+      "fat_g": 12.5,
+      "carbs_g": 28.0
+    }
+  },
+  {
+    "day": 24,
+    "items": [
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 114.0,
+        "protein_g": 0.8,
+        "fat_g": 0.2,
+        "carbs_g": 30.0
+      },
+      {
+        "name": "Фундук",
+        "key": "фундук",
+        "raw_g": 15,
+        "cooked_g": 15,
+        "kcal": 94.2,
+        "protein_g": 2.2,
+        "fat_g": 9.2,
+        "carbs_g": 2.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 208.2,
+      "protein_g": 3.0,
+      "fat_g": 9.4,
+      "carbs_g": 32.5
+    }
+  },
+  {
+    "day": 25,
+    "items": [
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      },
+      {
+        "name": "Грецкие орехи",
+        "key": "грецкие_орехи",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 163.5,
+        "protein_g": 3.8,
+        "fat_g": 16.3,
+        "carbs_g": 3.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 270.3,
+      "protein_g": 5.1,
+      "fat_g": 16.7,
+      "carbs_g": 31.0
+    }
+  },
+  {
+    "day": 26,
+    "items": [
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 180,
+        "cooked_g": 180,
+        "kcal": 93.6,
+        "protein_g": 0.5,
+        "fat_g": 0.4,
+        "carbs_g": 25.2
+      },
+      {
+        "name": "Миндаль",
+        "key": "миндаль",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 144.8,
+        "protein_g": 5.3,
+        "fat_g": 12.5,
+        "carbs_g": 5.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 238.4,
+      "protein_g": 5.8,
+      "fat_g": 12.9,
+      "carbs_g": 30.6
+    }
+  },
+  {
+    "day": 27,
+    "items": [
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 94.0,
+        "protein_g": 1.8,
+        "fat_g": 0.2,
+        "carbs_g": 24.0
+      },
+      {
+        "name": "Арахис",
+        "key": "арахис",
+        "raw_g": 21,
+        "cooked_g": 21,
+        "kcal": 119.1,
+        "protein_g": 5.4,
+        "fat_g": 10.3,
+        "carbs_g": 3.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 213.1,
+      "protein_g": 7.2,
+      "fat_g": 10.5,
+      "carbs_g": 27.4
+    }
+  },
+  {
+    "day": 28,
+    "items": [
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 114.0,
+        "protein_g": 0.8,
+        "fat_g": 0.2,
+        "carbs_g": 30.0
+      },
+      {
+        "name": "Фундук",
+        "key": "фундук",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 157.0,
+        "protein_g": 3.8,
+        "fat_g": 15.2,
+        "carbs_g": 4.2
+      }
+    ],
+    "meal_totals": {
+      "kcal": 271.0,
+      "protein_g": 4.6,
+      "fat_g": 15.4,
+      "carbs_g": 34.2
+    }
+  },
+  {
+    "day": 29,
+    "items": [
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      },
+      {
+        "name": "Грецкие орехи",
+        "key": "грецкие_орехи",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 163.5,
+        "protein_g": 3.8,
+        "fat_g": 16.3,
+        "carbs_g": 3.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 270.3,
+      "protein_g": 5.1,
+      "fat_g": 16.7,
+      "carbs_g": 31.0
+    }
+  },
+  {
+    "day": 30,
+    "items": [
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 180,
+        "cooked_g": 180,
+        "kcal": 93.6,
+        "protein_g": 0.5,
+        "fat_g": 0.4,
+        "carbs_g": 25.2
+      },
+      {
+        "name": "Миндаль",
+        "key": "миндаль",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 144.8,
+        "protein_g": 5.3,
+        "fat_g": 12.5,
+        "carbs_g": 5.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 238.4,
+      "protein_g": 5.8,
+      "fat_g": 12.9,
+      "carbs_g": 30.6
+    }
+  },
+  {
+    "day": 31,
+    "items": [
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 94.0,
+        "protein_g": 1.8,
+        "fat_g": 0.2,
+        "carbs_g": 24.0
+      },
+      {
+        "name": "Арахис",
+        "key": "арахис",
+        "raw_g": 25,
+        "cooked_g": 25,
+        "kcal": 141.8,
+        "protein_g": 6.5,
+        "fat_g": 12.3,
+        "carbs_g": 4.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 235.8,
+      "protein_g": 8.3,
+      "fat_g": 12.5,
+      "carbs_g": 28.0
+    }
+  }
+]

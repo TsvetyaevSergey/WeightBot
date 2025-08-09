@@ -15,7 +15,8 @@ def main_menu_kb() -> ReplyKeyboardMarkup:
         keyboard=[
             [KeyboardButton(text="➕ Внести вес")],
             [KeyboardButton(text="📈 Показать результаты")],
-            [KeyboardButton(text="✏️ Исправить последние записи")],  # NEW
+            [KeyboardButton(text="✏️ Исправить последние записи")],
+            [KeyboardButton(text="🍽 Что мне поесть сегодня?")]# NEW
         ],
         resize_keyboard=True,
         input_field_placeholder="Выберите действие…",

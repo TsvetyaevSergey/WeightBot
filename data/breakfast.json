@@ -1,0 +1,1273 @@
+[
+  {
+    "day": 1,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 170,
+        "cooked_g": 170,
+        "kcal": 88.4,
+        "protein_g": 0.5,
+        "fat_g": 0.3,
+        "carbs_g": 23.8
+      }
+    ],
+    "meal_totals": {
+      "kcal": 589.4,
+      "protein_g": 27.4,
+      "fat_g": 17.9,
+      "carbs_g": 76.2
+    }
+  },
+  {
+    "day": 2,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 100,
+        "cooked_g": 100,
+        "kcal": 89.0,
+        "protein_g": 1.1,
+        "fat_g": 0.3,
+        "carbs_g": 23.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 538.3,
+      "protein_g": 29.4,
+      "fat_g": 17.0,
+      "carbs_g": 75.7
+    }
+  },
+  {
+    "day": 3,
+    "items": [
+      {
+        "name": "Пшённая каша",
+        "key": "пшено_сухое",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 330.6,
+        "protein_g": 10.7,
+        "fat_g": 3.1,
+        "carbs_g": 69.3
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 85.5,
+        "protein_g": 0.6,
+        "fat_g": 0.2,
+        "carbs_g": 22.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.7,
+      "protein_g": 42.5,
+      "fat_g": 4.9,
+      "carbs_g": 91.8
+    }
+  },
+  {
+    "day": 4,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 70.5,
+        "protein_g": 1.4,
+        "fat_g": 0.2,
+        "carbs_g": 18.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 571.5,
+      "protein_g": 28.3,
+      "fat_g": 17.8,
+      "carbs_g": 70.4
+    }
+  },
+  {
+    "day": 5,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 170,
+        "cooked_g": 170,
+        "kcal": 88.4,
+        "protein_g": 0.5,
+        "fat_g": 0.3,
+        "carbs_g": 23.8
+      }
+    ],
+    "meal_totals": {
+      "kcal": 537.7,
+      "protein_g": 28.8,
+      "fat_g": 17.0,
+      "carbs_g": 76.5
+    }
+  },
+  {
+    "day": 6,
+    "items": [
+      {
+        "name": "Перловая каша",
+        "key": "перловка_сухая",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 304.0,
+        "protein_g": 8.8,
+        "fat_g": 1.0,
+        "carbs_g": 70.0
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 100,
+        "cooked_g": 100,
+        "kcal": 89.0,
+        "protein_g": 1.1,
+        "fat_g": 0.3,
+        "carbs_g": 23.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 545.6,
+      "protein_g": 41.1,
+      "fat_g": 2.9,
+      "carbs_g": 93.0
+    }
+  },
+  {
+    "day": 7,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 190,
+        "cooked_g": 190,
+        "kcal": 108.3,
+        "protein_g": 0.8,
+        "fat_g": 0.2,
+        "carbs_g": 28.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 609.3,
+      "protein_g": 27.7,
+      "fat_g": 17.8,
+      "carbs_g": 80.9
+    }
+  },
+  {
+    "day": 8,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 170,
+        "cooked_g": 170,
+        "kcal": 88.4,
+        "protein_g": 0.5,
+        "fat_g": 0.3,
+        "carbs_g": 23.8
+      }
+    ],
+    "meal_totals": {
+      "kcal": 589.4,
+      "protein_g": 27.4,
+      "fat_g": 17.9,
+      "carbs_g": 76.2
+    }
+  },
+  {
+    "day": 9,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      }
+    ],
+    "meal_totals": {
+      "kcal": 556.1,
+      "protein_g": 29.6,
+      "fat_g": 17.1,
+      "carbs_g": 80.3
+    }
+  },
+  {
+    "day": 10,
+    "items": [
+      {
+        "name": "Пшённая каша",
+        "key": "пшено_сухое",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 330.6,
+        "protein_g": 10.7,
+        "fat_g": 3.1,
+        "carbs_g": 69.3
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 85.5,
+        "protein_g": 0.6,
+        "fat_g": 0.2,
+        "carbs_g": 22.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.7,
+      "protein_g": 42.5,
+      "fat_g": 4.9,
+      "carbs_g": 91.8
+    }
+  },
+  {
+    "day": 11,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 190,
+        "cooked_g": 190,
+        "kcal": 89.3,
+        "protein_g": 1.7,
+        "fat_g": 0.2,
+        "carbs_g": 22.8
+      }
+    ],
+    "meal_totals": {
+      "kcal": 590.3,
+      "protein_g": 28.6,
+      "fat_g": 17.8,
+      "carbs_g": 75.2
+    }
+  },
+  {
+    "day": 12,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 170,
+        "cooked_g": 170,
+        "kcal": 88.4,
+        "protein_g": 0.5,
+        "fat_g": 0.3,
+        "carbs_g": 23.8
+      }
+    ],
+    "meal_totals": {
+      "kcal": 537.7,
+      "protein_g": 28.8,
+      "fat_g": 17.0,
+      "carbs_g": 76.5
+    }
+  },
+  {
+    "day": 13,
+    "items": [
+      {
+        "name": "Перловая каша",
+        "key": "перловка_сухая",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 304.0,
+        "protein_g": 8.8,
+        "fat_g": 1.0,
+        "carbs_g": 70.0
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 100,
+        "cooked_g": 100,
+        "kcal": 89.0,
+        "protein_g": 1.1,
+        "fat_g": 0.3,
+        "carbs_g": 23.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 545.6,
+      "protein_g": 41.1,
+      "fat_g": 2.9,
+      "carbs_g": 93.0
+    }
+  },
+  {
+    "day": 14,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 85.5,
+        "protein_g": 0.6,
+        "fat_g": 0.2,
+        "carbs_g": 22.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 586.5,
+      "protein_g": 27.5,
+      "fat_g": 17.8,
+      "carbs_g": 74.9
+    }
+  },
+  {
+    "day": 15,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 190,
+        "cooked_g": 190,
+        "kcal": 98.8,
+        "protein_g": 0.6,
+        "fat_g": 0.4,
+        "carbs_g": 26.6
+      }
+    ],
+    "meal_totals": {
+      "kcal": 599.8,
+      "protein_g": 27.5,
+      "fat_g": 18.0,
+      "carbs_g": 79.0
+    }
+  },
+  {
+    "day": 16,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 106.8,
+        "protein_g": 1.3,
+        "fat_g": 0.4,
+        "carbs_g": 27.6
+      }
+    ],
+    "meal_totals": {
+      "kcal": 556.1,
+      "protein_g": 29.6,
+      "fat_g": 17.1,
+      "carbs_g": 80.3
+    }
+  },
+  {
+    "day": 17,
+    "items": [
+      {
+        "name": "Пшённая каша",
+        "key": "пшено_сухое",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 330.6,
+        "protein_g": 10.7,
+        "fat_g": 3.1,
+        "carbs_g": 69.3
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 85.5,
+        "protein_g": 0.6,
+        "fat_g": 0.2,
+        "carbs_g": 22.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.7,
+      "protein_g": 42.5,
+      "fat_g": 4.9,
+      "carbs_g": 91.8
+    }
+  },
+  {
+    "day": 18,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 70.5,
+        "protein_g": 1.4,
+        "fat_g": 0.2,
+        "carbs_g": 18.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 571.5,
+      "protein_g": 28.3,
+      "fat_g": 17.8,
+      "carbs_g": 70.4
+    }
+  },
+  {
+    "day": 19,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 190,
+        "cooked_g": 190,
+        "kcal": 98.8,
+        "protein_g": 0.6,
+        "fat_g": 0.4,
+        "carbs_g": 26.6
+      }
+    ],
+    "meal_totals": {
+      "kcal": 548.1,
+      "protein_g": 28.9,
+      "fat_g": 17.1,
+      "carbs_g": 79.3
+    }
+  },
+  {
+    "day": 20,
+    "items": [
+      {
+        "name": "Перловая каша",
+        "key": "перловка_сухая",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 304.0,
+        "protein_g": 8.8,
+        "fat_g": 1.0,
+        "carbs_g": 70.0
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 100,
+        "cooked_g": 100,
+        "kcal": 89.0,
+        "protein_g": 1.1,
+        "fat_g": 0.3,
+        "carbs_g": 23.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 545.6,
+      "protein_g": 41.1,
+      "fat_g": 2.9,
+      "carbs_g": 93.0
+    }
+  },
+  {
+    "day": 21,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 170,
+        "cooked_g": 170,
+        "kcal": 96.9,
+        "protein_g": 0.7,
+        "fat_g": 0.2,
+        "carbs_g": 25.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 597.9,
+      "protein_g": 27.6,
+      "fat_g": 17.8,
+      "carbs_g": 77.9
+    }
+  },
+  {
+    "day": 22,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 78.0,
+        "protein_g": 0.4,
+        "fat_g": 0.3,
+        "carbs_g": 21.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 579.0,
+      "protein_g": 27.3,
+      "fat_g": 17.9,
+      "carbs_g": 73.4
+    }
+  },
+  {
+    "day": 23,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 140,
+        "cooked_g": 140,
+        "kcal": 124.6,
+        "protein_g": 1.5,
+        "fat_g": 0.4,
+        "carbs_g": 32.2
+      }
+    ],
+    "meal_totals": {
+      "kcal": 573.9,
+      "protein_g": 29.8,
+      "fat_g": 17.1,
+      "carbs_g": 84.9
+    }
+  },
+  {
+    "day": 24,
+    "items": [
+      {
+        "name": "Пшённая каша",
+        "key": "пшено_сухое",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 330.6,
+        "protein_g": 10.7,
+        "fat_g": 3.1,
+        "carbs_g": 69.3
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 85.5,
+        "protein_g": 0.6,
+        "fat_g": 0.2,
+        "carbs_g": 22.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.7,
+      "protein_g": 42.5,
+      "fat_g": 4.9,
+      "carbs_g": 91.8
+    }
+  },
+  {
+    "day": 25,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Апельсин",
+        "key": "апельсин",
+        "raw_g": 170,
+        "cooked_g": 170,
+        "kcal": 79.9,
+        "protein_g": 1.5,
+        "fat_g": 0.2,
+        "carbs_g": 20.4
+      }
+    ],
+    "meal_totals": {
+      "kcal": 580.9,
+      "protein_g": 28.4,
+      "fat_g": 17.8,
+      "carbs_g": 72.8
+    }
+  },
+  {
+    "day": 26,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 78.0,
+        "protein_g": 0.4,
+        "fat_g": 0.3,
+        "carbs_g": 21.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 527.3,
+      "protein_g": 28.7,
+      "fat_g": 17.0,
+      "carbs_g": 73.7
+    }
+  },
+  {
+    "day": 27,
+    "items": [
+      {
+        "name": "Перловая каша",
+        "key": "перловка_сухая",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 304.0,
+        "protein_g": 8.8,
+        "fat_g": 1.0,
+        "carbs_g": 70.0
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 100,
+        "cooked_g": 100,
+        "kcal": 89.0,
+        "protein_g": 1.1,
+        "fat_g": 0.3,
+        "carbs_g": 23.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 545.6,
+      "protein_g": 41.1,
+      "fat_g": 2.9,
+      "carbs_g": 93.0
+    }
+  },
+  {
+    "day": 28,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 170,
+        "cooked_g": 170,
+        "kcal": 96.9,
+        "protein_g": 0.7,
+        "fat_g": 0.2,
+        "carbs_g": 25.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 597.9,
+      "protein_g": 27.6,
+      "fat_g": 17.8,
+      "carbs_g": 77.9
+    }
+  },
+  {
+    "day": 29,
+    "items": [
+      {
+        "name": "Овсянка",
+        "key": "овсянка_сухая",
+        "raw_g": 90,
+        "cooked_g": 243,
+        "kcal": 329.4,
+        "protein_g": 11.8,
+        "fat_g": 6.2,
+        "carbs_g": 51.1
+      },
+      {
+        "name": "Яйца, варёные",
+        "key": "яйцо",
+        "raw_g": 120,
+        "cooked_g": 120,
+        "kcal": 171.6,
+        "protein_g": 15.1,
+        "fat_g": 11.4,
+        "carbs_g": 1.3
+      },
+      {
+        "name": "Яблоко",
+        "key": "яблоко",
+        "raw_g": 170,
+        "cooked_g": 170,
+        "kcal": 88.4,
+        "protein_g": 0.5,
+        "fat_g": 0.3,
+        "carbs_g": 23.8
+      }
+    ],
+    "meal_totals": {
+      "kcal": 589.4,
+      "protein_g": 27.4,
+      "fat_g": 17.9,
+      "carbs_g": 76.2
+    }
+  },
+  {
+    "day": 30,
+    "items": [
+      {
+        "name": "Гречка (каша)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Яйца, омлет/варка",
+        "key": "яйцо",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 214.5,
+        "protein_g": 18.9,
+        "fat_g": 14.2,
+        "carbs_g": 1.7
+      },
+      {
+        "name": "Банан",
+        "key": "банан",
+        "raw_g": 100,
+        "cooked_g": 100,
+        "kcal": 89.0,
+        "protein_g": 1.1,
+        "fat_g": 0.3,
+        "carbs_g": 23.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 538.3,
+      "protein_g": 29.4,
+      "fat_g": 17.0,
+      "carbs_g": 75.7
+    }
+  },
+  {
+    "day": 31,
+    "items": [
+      {
+        "name": "Пшённая каша",
+        "key": "пшено_сухое",
+        "raw_g": 95,
+        "cooked_g": 256,
+        "kcal": 330.6,
+        "protein_g": 10.7,
+        "fat_g": 3.1,
+        "carbs_g": 69.3
+      },
+      {
+        "name": "Куриная грудка, отварная",
+        "key": "курица_грудка",
+        "raw_g": 135,
+        "cooked_g": 101,
+        "kcal": 152.6,
+        "protein_g": 31.2,
+        "fat_g": 1.6,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Груша",
+        "key": "груша",
+        "raw_g": 150,
+        "cooked_g": 150,
+        "kcal": 85.5,
+        "protein_g": 0.6,
+        "fat_g": 0.2,
+        "carbs_g": 22.5
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.7,
+      "protein_g": 42.5,
+      "fat_g": 4.9,
+      "carbs_g": 91.8
+    }
+  }
+]

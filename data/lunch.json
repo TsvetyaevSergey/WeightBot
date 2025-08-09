@@ -1,0 +1,1583 @@
+[
+  {
+    "day": 1,
+    "items": [
+      {
+        "name": "Куриная грудка, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 2,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 3,
+    "items": [
+      {
+        "name": "Говядина, отварная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, отварной",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 716.4,
+      "protein_g": 45.8,
+      "fat_g": 36.2,
+      "carbs_g": 53.8
+    }
+  },
+  {
+    "day": 4,
+    "items": [
+      {
+        "name": "Курица, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 5,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 6,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Макароны (тв. сорта)",
+        "key": "макароны_сухие",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 7.8,
+        "fat_g": 0.8,
+        "carbs_g": 53.6
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 781.9,
+      "protein_g": 48.6,
+      "fat_g": 36.0,
+      "carbs_g": 63.6
+    }
+  },
+  {
+    "day": 7,
+    "items": [
+      {
+        "name": "Курица, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, запечённый",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.4,
+      "protein_g": 54.2,
+      "fat_g": 13.8,
+      "carbs_g": 53.8
+    }
+  },
+  {
+    "day": 8,
+    "items": [
+      {
+        "name": "Куриная грудка, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 9,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 10,
+    "items": [
+      {
+        "name": "Говядина, отварная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, отварной",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 716.4,
+      "protein_g": 45.8,
+      "fat_g": 36.2,
+      "carbs_g": 53.8
+    }
+  },
+  {
+    "day": 11,
+    "items": [
+      {
+        "name": "Курица, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 12,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 13,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Макароны (тв. сорта)",
+        "key": "макароны_сухие",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 7.8,
+        "fat_g": 0.8,
+        "carbs_g": 53.6
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 781.9,
+      "protein_g": 48.6,
+      "fat_g": 36.0,
+      "carbs_g": 63.6
+    }
+  },
+  {
+    "day": 14,
+    "items": [
+      {
+        "name": "Курица, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, запечённый",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.4,
+      "protein_g": 54.2,
+      "fat_g": 13.8,
+      "carbs_g": 53.8
+    }
+  },
+  {
+    "day": 15,
+    "items": [
+      {
+        "name": "Куриная грудка, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 16,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 17,
+    "items": [
+      {
+        "name": "Говядина, отварная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, отварной",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 716.4,
+      "protein_g": 45.8,
+      "fat_g": 36.2,
+      "carbs_g": 53.8
+    }
+  },
+  {
+    "day": 18,
+    "items": [
+      {
+        "name": "Курица, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 19,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 20,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Макароны (тв. сорта)",
+        "key": "макароны_сухие",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 7.8,
+        "fat_g": 0.8,
+        "carbs_g": 53.6
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 781.9,
+      "protein_g": 48.6,
+      "fat_g": 36.0,
+      "carbs_g": 63.6
+    }
+  },
+  {
+    "day": 21,
+    "items": [
+      {
+        "name": "Курица, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, запечённый",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.4,
+      "protein_g": 54.2,
+      "fat_g": 13.8,
+      "carbs_g": 53.8
+    }
+  },
+  {
+    "day": 22,
+    "items": [
+      {
+        "name": "Куриная грудка, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 23,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 24,
+    "items": [
+      {
+        "name": "Говядина, отварная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, отварной",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 716.4,
+      "protein_g": 45.8,
+      "fat_g": 36.2,
+      "carbs_g": 53.8
+    }
+  },
+  {
+    "day": 25,
+    "items": [
+      {
+        "name": "Курица, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 26,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 27,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Макароны (тв. сорта)",
+        "key": "макароны_сухие",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 7.8,
+        "fat_g": 0.8,
+        "carbs_g": 53.6
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 781.9,
+      "protein_g": 48.6,
+      "fat_g": 36.0,
+      "carbs_g": 63.6
+    }
+  },
+  {
+    "day": 28,
+    "items": [
+      {
+        "name": "Курица, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, запечённый",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 568.4,
+      "protein_g": 54.2,
+      "fat_g": 13.8,
+      "carbs_g": 53.8
+    }
+  },
+  {
+    "day": 29,
+    "items": [
+      {
+        "name": "Куриная грудка, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Гречка (гарнир)",
+        "key": "гречка_сухая",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 234.8,
+        "protein_g": 9.4,
+        "fat_g": 2.5,
+        "carbs_g": 51.0
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 610.7,
+      "protein_g": 58.6,
+      "fat_g": 15.3,
+      "carbs_g": 61.0
+    }
+  },
+  {
+    "day": 30,
+    "items": [
+      {
+        "name": "Индейка, тушёная",
+        "key": "индейка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 224.0,
+        "protein_g": 49.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Рис белый",
+        "key": "рис_белый_сухой",
+        "raw_g": 75,
+        "cooked_g": 202,
+        "kcal": 258.0,
+        "protein_g": 5.0,
+        "fat_g": 0.5,
+        "carbs_g": 58.5
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 631.9,
+      "protein_g": 57.2,
+      "fat_g": 13.3,
+      "carbs_g": 68.5
+    }
+  },
+  {
+    "day": 31,
+    "items": [
+      {
+        "name": "Говядина, отварная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Картофель, отварной",
+        "key": "картофель",
+        "raw_g": 250,
+        "cooked_g": 200,
+        "kcal": 192.5,
+        "protein_g": 5.0,
+        "fat_g": 1.0,
+        "carbs_g": 43.8
+      },
+      {
+        "name": "Салат овощной",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 716.4,
+      "protein_g": 45.8,
+      "fat_g": 36.2,
+      "carbs_g": 53.8
+    }
+  }
+]

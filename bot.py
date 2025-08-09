@@ -17,6 +17,8 @@ from storage import Storage
 from charts import build_weight_chart
 from scheduler import setup_scheduler
 from logging_conf import setup_logging
+from meals import handle_what_to_eat_today
+
 setup_logging()
 
 import logging
@@ -199,6 +201,7 @@ def register_routes(dp: Dispatcher):
     dp.message.register(add_weight_entry, F.text == "➕ Внести вес")
     dp.message.register(show_results,  F.text == "📈 Показать результаты")
     dp.message.register(open_edit_menu, F.text == "✏️ Исправить последние записи")  # NEW
+    dp.message.register(handle_what_to_eat_today, F.text == "🍽 Что мне поесть сегодня?")
 
     dp.callback_query.register(edit_pick_cb, F.data.startswith("editpick:"))  # NEW
     dp.message.register(edit_apply_value, WeightForm.editing_wait_value)      # NEW

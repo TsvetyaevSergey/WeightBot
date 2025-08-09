@@ -1,0 +1,1273 @@
+[
+  {
+    "day": 1,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 375.9,
+      "protein_g": 49.2,
+      "fat_g": 12.8,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 2,
+    "items": [
+      {
+        "name": "Рыба, запечённая",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные/гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 316.2,
+      "protein_g": 37.7,
+      "fat_g": 11.8,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 3,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 4,
+    "items": [
+      {
+        "name": "Курица, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 386.4,
+      "protein_g": 49.7,
+      "fat_g": 12.9,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 5,
+    "items": [
+      {
+        "name": "Рыба, отварная",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 305.7,
+      "protein_g": 37.2,
+      "fat_g": 11.7,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 6,
+    "items": [
+      {
+        "name": "Говядина, запечённая",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 7,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 386.4,
+      "protein_g": 49.7,
+      "fat_g": 12.9,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 8,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 375.9,
+      "protein_g": 49.2,
+      "fat_g": 12.8,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 9,
+    "items": [
+      {
+        "name": "Рыба, запечённая",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные/гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 316.2,
+      "protein_g": 37.7,
+      "fat_g": 11.8,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 10,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 11,
+    "items": [
+      {
+        "name": "Курица, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 386.4,
+      "protein_g": 49.7,
+      "fat_g": 12.9,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 12,
+    "items": [
+      {
+        "name": "Рыба, отварная",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 305.7,
+      "protein_g": 37.2,
+      "fat_g": 11.7,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 13,
+    "items": [
+      {
+        "name": "Говядина, запечённая",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 14,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 386.4,
+      "protein_g": 49.7,
+      "fat_g": 12.9,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 15,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 375.9,
+      "protein_g": 49.2,
+      "fat_g": 12.8,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 16,
+    "items": [
+      {
+        "name": "Рыба, запечённая",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные/гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 316.2,
+      "protein_g": 37.7,
+      "fat_g": 11.8,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 17,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 18,
+    "items": [
+      {
+        "name": "Курица, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 386.4,
+      "protein_g": 49.7,
+      "fat_g": 12.9,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 19,
+    "items": [
+      {
+        "name": "Рыба, отварная",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 305.7,
+      "protein_g": 37.2,
+      "fat_g": 11.7,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 20,
+    "items": [
+      {
+        "name": "Говядина, запечённая",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 21,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 386.4,
+      "protein_g": 49.7,
+      "fat_g": 12.9,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 22,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 375.9,
+      "protein_g": 49.2,
+      "fat_g": 12.8,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 23,
+    "items": [
+      {
+        "name": "Рыба, запечённая",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные/гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 316.2,
+      "protein_g": 37.7,
+      "fat_g": 11.8,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 24,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 25,
+    "items": [
+      {
+        "name": "Курица, жареная",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 386.4,
+      "protein_g": 49.7,
+      "fat_g": 12.9,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 26,
+    "items": [
+      {
+        "name": "Рыба, отварная",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 305.7,
+      "protein_g": 37.2,
+      "fat_g": 11.7,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 27,
+    "items": [
+      {
+        "name": "Говядина, запечённая",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 28,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 386.4,
+      "protein_g": 49.7,
+      "fat_g": 12.9,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 29,
+    "items": [
+      {
+        "name": "Куриная грудка, запечённая",
+        "key": "курица_грудка",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 226.0,
+        "protein_g": 46.2,
+        "fat_g": 2.4,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи на пару",
+        "key": "овощи_сырые",
+        "raw_g": 200,
+        "cooked_g": 200,
+        "kcal": 60.0,
+        "protein_g": 3.0,
+        "fat_g": 0.4,
+        "carbs_g": 10.0
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 375.9,
+      "protein_g": 49.2,
+      "fat_g": 12.8,
+      "carbs_g": 10.0
+    }
+  },
+  {
+    "day": 30,
+    "items": [
+      {
+        "name": "Рыба, запечённая",
+        "key": "рыба_постная",
+        "raw_g": 190,
+        "cooked_g": 152,
+        "kcal": 155.8,
+        "protein_g": 34.2,
+        "fat_g": 1.3,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи тушёные/гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 316.2,
+      "protein_g": 37.7,
+      "fat_g": 11.8,
+      "carbs_g": 11.8
+    }
+  },
+  {
+    "day": 31,
+    "items": [
+      {
+        "name": "Говядина, тушёная",
+        "key": "говядина_постная",
+        "raw_g": 200,
+        "cooked_g": 150,
+        "kcal": 374.0,
+        "protein_g": 37.8,
+        "fat_g": 24.8,
+        "carbs_g": 0.0
+      },
+      {
+        "name": "Овощи гриль",
+        "key": "овощи_для_тушения",
+        "raw_g": 235,
+        "cooked_g": 200,
+        "kcal": 70.5,
+        "protein_g": 3.5,
+        "fat_g": 0.5,
+        "carbs_g": 11.8
+      },
+      {
+        "name": "Масло растительное",
+        "key": "масло",
+        "raw_g": 10,
+        "cooked_g": 10,
+        "kcal": 89.9,
+        "protein_g": 0.0,
+        "fat_g": 10.0,
+        "carbs_g": 0.0
+      }
+    ],
+    "meal_totals": {
+      "kcal": 534.4,
+      "protein_g": 41.3,
+      "fat_g": 35.3,
+      "carbs_g": 11.8
+    }
+  }
+]
