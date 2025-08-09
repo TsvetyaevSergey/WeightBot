@@ -13,7 +13,6 @@ __pycache__/
 # local config
 
 # runtime data
-data/*.json
 charts/
 *.png
 
