@@ -11,8 +11,6 @@ __pycache__/
 *.pyd
 
 # local config
-.env
-.env
 
 # runtime data
 data/*.json
