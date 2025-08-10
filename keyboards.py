@@ -13,10 +13,9 @@ def registration_kb() -> InlineKeyboardMarkup:
 def main_menu_kb() -> ReplyKeyboardMarkup:
     return ReplyKeyboardMarkup(
         keyboard=[
-            [KeyboardButton(text="➕ Внести вес")],
-            [KeyboardButton(text="📈 Показать результаты")],
-            [KeyboardButton(text="✏️ Исправить последние записи")],
-            [KeyboardButton(text="🍽 Что мне поесть сегодня?")]# NEW
+            [KeyboardButton(text="➕ Внести вес"), KeyboardButton(text="📈 Показать результаты")],
+            [KeyboardButton(text="✏️ Исправить последние записи"), KeyboardButton(text="🍽 Что мне поесть сегодня?")],
+            [KeyboardButton(text="🍽 Что мне поесть завтра?")]# NEW# NEW
         ],
         resize_keyboard=True,
         input_field_placeholder="Выберите действие…",
